@@ -17,6 +17,18 @@ gtga --msg "Hello World"
 - `GTGA_BOT_TOKEN` – Bot token from [BotFather](https://t.me/BotFather)
 - `GTGA_CHANNEL_ID` – Channel ID for notification
 
+## Installation
+
+For installation you need to load latest version from [Release](https://github.com/jtprogru/gtga/releases) page and download version for you platform.
+
+Another way is usage `go install`:
+
+```shell
+# Get latest version from CLI
+VERSION=`curl -sSL https://api.github.com/repos/jtprogru/gtga/releases/latest -s | jq .name -r`
+go install github.com/jtprogru/gtga@$VERSION
+```
+
 ## License
 
 [MIT](https://github.com/jtprogru/gtga/blob/main/LICENSE)
