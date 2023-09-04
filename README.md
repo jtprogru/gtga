@@ -3,6 +3,8 @@
 [![goreleaser](https://github.com/jtprogru/gtga/actions/workflows/goreleaser.yaml/badge.svg)](https://github.com/jtprogru/gtga/actions/workflows/goreleaser.yaml)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/jtprogru/gtga)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/jtprogru/gtga)
+[![GitHub issues](https://img.shields.io/github/issues/jtprogru/gtga)](https://github.com/jtprogru/gtga/issues)
+[![GitHub](https://img.shields.io/github/license/jtprogru/gtga)](https://github.com/jtprogru/gtga/blob/main/LICENSE)
 
 Simple CLI tool to send Telegram messages from CLI.
 
