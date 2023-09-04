@@ -1,5 +1,9 @@
 # gtga – Go TeleGram Alert
 
+[![goreleaser](https://github.com/jtprogru/gtga/actions/workflows/goreleaser.yaml/badge.svg)](https://github.com/jtprogru/gtga/actions/workflows/goreleaser.yaml)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/jtprogru/gtga)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/jtprogru/gtga)
+
 Simple CLI tool to send Telegram messages from CLI.
 
 ## Usage
